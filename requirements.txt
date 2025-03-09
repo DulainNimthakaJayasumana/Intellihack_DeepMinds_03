@@ -1,0 +1,10 @@
+accelerate>=0.26.0
+transformers
+torch
+datasets
+pandas
+scikit-learn
+python-dotenv
+nltk
+huggingface-hub
+llama-cpp-python
